@@ -6,10 +6,3 @@
 <a href="https://ifullstack-tv.github.io/starbucks-landing-page-website-html-css-javascript/"><img src="https://github.com/iFullStack-tv/starbucks-landing-page-website-html-css-javascript/blob/main/demo.gif" width="100%"></a>
 
 <div align="center">
-<h3>Connect with us:</h3>
-
-[<img alt="iFullStack.tv | YouTube" width="40px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/youtube.png" />][youtube]
-[<img alt="iFullStack.tv | Instagram" width="40px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/instagram.png" />][instagram]
-[<img alt="iFullStack.tv | Course" width="40px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/course.png" />][dev course]
-[<img alt="iFullStack.tv | TikTok" width="40px" src="https://github.com/iFullStack-tv/iFullStack-tv/blob/main/images/tiktok.png" />][tiktok]
-
